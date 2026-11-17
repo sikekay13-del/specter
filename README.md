@@ -103,5 +103,5 @@ do not make real account-registration probes.
 
 ## License
 
-No license has been selected for this project yet. Choose one before publishing
-if you want to specify how others may use, modify, and redistribute it.
+Specter is licensed under the MIT License. See [LICENSE](./LICENSE) for the
+full license text.
